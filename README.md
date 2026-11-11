@@ -1,68 +1,43 @@
-<h1 align="center">Hi 👋, I'm Eduard Kaverinskyi</h1>
-<h3 align="center">Everything Python | Web Dev | Learning DevOps | Intrigued by ML and AI</h3>
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-<hr>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
-            height="40" />
-            </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Eduard Kaverinskyi writes Python and Go. Software engineer based in Gdansk, Poland." width="830">
+  </picture>
 </p>
 
-<h3 align="left">Libraries and Frameworks:</h3>
-<p align="left">
-    </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
-</p>
+I build web applications and backend services, and I keep growing across the stack: full stack development, DevOps, and a steady interest in ML and AI.
 
-<h3 align="left">Other:</h3>
-<p align="left">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-</p>
+<a href="mailto:eduard.kaverinskyi@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-5eead4?style=for-the-badge&logo=gmail&logoColor=06201c" alt="Email me"></a>
 
-<hr>
+## About
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=EKaverinskyi&show_icons=true&locale=en&layout=compact"
-        alt="EKaverinskyi" /></p>
+Most of my work is in Python, with Go alongside it. I like building web applications end to end, and right now I am deepening my full stack skills, going further into DevOps, and following machine learning and AI.
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=EKaverinskyi&show_icons=true&locale=en"
-        alt="EKaverinskyi" /></p>
+## Toolbox
+
+### Languages and frameworks
+
+<img src="https://img.shields.io/badge/-Python-1f2937?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/-Go-1f2937?style=flat-square" alt="Go">
+<img src="https://img.shields.io/badge/-JavaScript-1f2937?style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Bash-1f2937?style=flat-square" alt="Bash">
+<img src="https://img.shields.io/badge/-Django-1f2937?style=flat-square" alt="Django">
+
+### Data and messaging
+
+<img src="https://img.shields.io/badge/-PostgreSQL-1f2937?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-Redis-1f2937?style=flat-square" alt="Redis">
+<img src="https://img.shields.io/badge/-MongoDB-1f2937?style=flat-square" alt="MongoDB">
+<img src="https://img.shields.io/badge/-RabbitMQ-1f2937?style=flat-square" alt="RabbitMQ">
+
+### Infrastructure and tooling
+
+<img src="https://img.shields.io/badge/-Docker-1f2937?style=flat-square" alt="Docker">
+<img src="https://img.shields.io/badge/-Kubernetes-1f2937?style=flat-square" alt="Kubernetes">
+<img src="https://img.shields.io/badge/-Jenkins-1f2937?style=flat-square" alt="Jenkins">
+<img src="https://img.shields.io/badge/-Linux-1f2937?style=flat-square" alt="Linux">
+<img src="https://img.shields.io/badge/-Git-1f2937?style=flat-square" alt="Git">
+
+## Let's work together
+
+Have a project, a role or an idea in mind? The quickest way to reach me is by email: [eduard.kaverinskyi@gmail.com](mailto:eduard.kaverinskyi@gmail.com).
