@@ -60,9 +60,9 @@
 <hr>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=edukav1813&show_icons=true&locale=en&layout=compact"
-        alt="edukav1813" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=EKaverinskyi&show_icons=true&locale=en&layout=compact"
+        alt="EKaverinskyi" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=edukav1813&show_icons=true&locale=en"
-        alt="edukav1813" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=EKaverinskyi&show_icons=true&locale=en"
+        alt="EKaverinskyi" /></p>
